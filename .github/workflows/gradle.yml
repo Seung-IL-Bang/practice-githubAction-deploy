@@ -15,7 +15,7 @@ permissions:
   contents: read
 
 env:
-  S3_BUCKET_NAME: be-55-Seung-IL-Bang
+  S3_BUCKET_NAME: be-55-seung-il-bang
 
 jobs:
   build:
