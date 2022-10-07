@@ -10,14 +10,12 @@ name: Java CI with Gradle
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 
 permissions:
   contents: read
 
 env:
-  S3_BUCKET_NAME: be-55-seung-il-bang
+  S3_BUCKET_NAME: be-55-Seung-IL-Bang
 
 jobs:
   build:
